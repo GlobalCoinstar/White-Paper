@@ -1,2 +1,2 @@
-This is Our whitepaper version 1.0
-release on June, 2024
+Our whitepaper Repository, First
+release on 1st June, 2024
