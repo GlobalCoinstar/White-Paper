@@ -1,2 +1,2 @@
 Our whitepaper Repository, First
-release on 1st June, 2024
+release on June, 2024
